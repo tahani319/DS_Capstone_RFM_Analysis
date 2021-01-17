@@ -59,3 +59,11 @@ Country: Country name. Nominal, the name of the country where each customer resi
 This project was done in python using jupyter notebook
 
 
+
+ Resource: 
+
+https://futurice.com/blog/know-your-customers-with-rfm
+
+https://www.dase-analytics.com/blog/en/rfm-analysis/
+
+http://blog.tbs-education.fr/SM2-Cluster/data-visualization-and-rfm-recency-frequency-and-monetary-analysis-using-python-customer-segmentation/
